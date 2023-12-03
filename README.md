@@ -1,7 +1,7 @@
-### Kai Fang 
-**`🎓Grad Student (UPenn)`**
+# Kai Fang 
+**`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`**
 
-<hr>
+#
 
 ### Hello! Welcome to my GitHub.
 ##### I'm currently self-learning some web development before my classes start in 2024! Personal website coming soon :D
