@@ -1,5 +1,5 @@
-# Kai Fang☕
-##### **`Grad Student (UPenn)`**
+# Kai Fang
+##### **`🎓Grad Student (UPenn)`**
 
 ### Hello! Welcome to my GitHub.
 ##### Currently self-learning some web development before my classes start in 2024! Personal website coming soon :D
