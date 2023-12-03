@@ -1,10 +1,7 @@
 # Kai Fang☕
-
 #### **`Grad Student (UPenn)`**
-
 #### Hello! Welcome to my GitHub.
 ##### Currently self-learning some web development before my classes start in 2024! Personal website coming soon :D
-
 
 #### Languages, Frameworks, & Tools 
 <img align="left" alt="Python" width="21px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
