@@ -22,9 +22,4 @@
     <h5>[Insert my story here]</h5>
 </details>
 
-
-<!--
-
-# Kai Fang☕
-##### **`Grad Student (UPenn)`**
--->
+#
