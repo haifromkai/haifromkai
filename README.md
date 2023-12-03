@@ -22,7 +22,7 @@
 
 <details>
   <summary><h3>My Story</h3></summary>
-    <h5>[Insert my story here]</h5>
+    <h5></h5>
 </details>
 
 #
