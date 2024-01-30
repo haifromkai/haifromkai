@@ -4,7 +4,7 @@
 #
 
 ### Hello! Welcome to my GitHub.
-##### I'm currently self-learning some web development before my classes start in 2024! Personal website coming soon :D
+##### I'm currently exploring web and game development while taking classes! Personal website coming soon :D
 
 #
 
