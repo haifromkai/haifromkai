@@ -4,7 +4,7 @@
 #
 
 ### Hello! Welcome to my GitHub.
-##### I'm currently exploring web and game development while taking classes! Personal website coming soon :D
+##### I'm currently exploring web and game development in Godot while taking classes! Personal website will be coming soon :D
 
 #
 
