@@ -1,12 +1,11 @@
 # Kai Fang 
 **`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`**
-
 #
 
-### Hello! Welcome to my GitHub.
-##### 🖥 Currently exploring web and game development while pursuing my CS Masters at UPenn!
-##### 📅 Announcements 
-    [3/1/24] - Launch date for project_fps v1.0
+#### 👋 Hello! Welcome to my GitHub.
+#### 🖥 Currently exploring web and game development while pursuing my CS Masters at UPenn!
+#### 📅 Announcements 
+     [3/1/24] - Launch date for project_fps v1.0!
 
 
 #
