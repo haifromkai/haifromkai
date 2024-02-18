@@ -4,7 +4,10 @@
 #
 
 ### Hello! Welcome to my GitHub.
-##### I'm currently exploring web and game development while pursuing my CS Masters! <br>Personal website will be coming soon :D
+##### 🖥 Currently exploring web and game development while pursuing my CS Masters at UPenn!
+##### 📅 Announcements 
+    [3/1/24] - Launch date for project_fps v1.0
+
 
 #
 
@@ -23,7 +26,7 @@
 #
 
 <details>
-  <summary><h3>My Story</h3></summary>
+  <summary><h3>Dev Logs</h3></summary>
     <h5></h5>
 </details>
 
