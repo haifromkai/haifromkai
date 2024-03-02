@@ -5,7 +5,7 @@
 #### 👋 Hello! Welcome to my GitHub.
 #### 🖥 Currently exploring web and game development while pursuing my CS Masters at UPenn!
 #### 📅 Announcements 
-     [3/1/24] - Launch date for project_fps v1.0!
+     [3/2/24] - Game Released, paintstorm V1.0!
 
 
 #
