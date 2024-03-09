@@ -5,7 +5,8 @@
 #### 👋 Hello! Welcome to my GitHub.
 #### 🖥 Currently exploring web and game development while pursuing my CS Masters at UPenn!
 #### 📅 Announcements 
-     [3/2/24] - Game Released, paintstorm V1.0!🎉
+     [3/2/24] - Game Release - paintstorm v1.0.0!🎉
+     [3/8/24] - Initial Project Release - demo_room v0.1.0🎉
 
 
 #
