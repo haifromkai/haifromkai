@@ -7,6 +7,7 @@
 #### 📅 Announcements 
      [3/2/24] - Game Release - paintstorm v1.0.0!🎉
      [3/8/24] - Initial Project Release - demo_room v0.1.0🎉
+     [3/9/24] - Patch - paintstorm v1.0.1🔨
 
 
 #
