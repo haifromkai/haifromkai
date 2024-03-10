@@ -27,9 +27,7 @@
 
 #
 
-<details>
-  <summary><h3>Dev Logs</h3></summary>
-    <h5></h5>
-</details>
+### Dev Logs <details><summary></summary></details>
 
 #
+
