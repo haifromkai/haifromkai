@@ -37,8 +37,3 @@
 <br>
 
 #
-
-### Dev Logs <details><summary></summary></details>
-
-#
-
