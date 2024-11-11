@@ -3,7 +3,7 @@
 #
 
 #### 👋 Hello! Welcome to my GitHub.
-#### 🖥 Currently exploring web and game development while pursuing my CS Masters!
+#### 🖥 Currently pursuing my CS Masters!
 
 #
 
