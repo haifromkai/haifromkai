@@ -3,7 +3,7 @@
 #
 
 #### 👋 Hello! Welcome to my GitHub.
-#### 🖥 Currently pursuing my CS Masters!
+#### 🖥 Currently pursuing my CS Masters at University of Pennsylvania!
 
 #
 
