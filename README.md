@@ -1,5 +1,5 @@
 # Kai Fang 
-**`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`**
+**`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`** **`🏒Novice Hockey Player`**
 #
 
 #### 👋 Hello! Welcome to my GitHub.
