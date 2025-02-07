@@ -5,7 +5,7 @@
 #
 
 ### 🚀 Currently Building
-#### <pre>☕ [CaféCompass](https://github.com/yourrepo) - a personalized, AI-powered web app that helps you discover the best study-friendly cafés based on <br>                 filters such as seating, noise levels, outlet availability, WiFi quality, and real user reviews.<br>                 Using machine learning and NLP, it analyzes café ratings and reviews to guide you to your next<br>                 perfect study spot.<br><br>                 Tech Stack: Python, PyTorch, Pandas, Supabase</pre>
+#### <pre>☕ [CaféCompass](https://github.com/yourrepo) - a personalized, AI-powered web app that helps you discover the best study-friendly cafés based on<br>                 filters such as seating, noise levels, outlet availability, WiFi quality, and real user reviews.<br>                 Using machine learning and NLP, it analyzes café ratings and reviews to guide you to your next<br>                 perfect study spot.<br><br>                 Tech Stack: Python, PyTorch, Pandas, Supabase</pre>
 #
 
 ### 🖥 Languages, Frameworks, & Tools 
