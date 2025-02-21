@@ -5,7 +5,7 @@
 #
 
 ### 🚀 Currently Building
-#### <pre>☕ [CaféCompass](https://github.com/haifromkai/CafeCompass)<br>A personalized, AI-powered web app that helps you discover the best study-friendly cafés based on<br>filters such as seating, noise levels, outlet availability, WiFi quality, and real user reviews.<br>Using machine learning and NLP, it analyzes café ratings and reviews to guide you to your next<br>perfect study spot.<br><br>Tech Stack: Next.js, TypeScript, Python, PyTorch, Pandas, Supabase, Vercel</pre>
+#### <pre>☕ [CaféCompass](https://github.com/haifromkai/CafeCompass)<br><br>A personalized, AI-powered web app that helps you discover the best study-friendly cafés based on<br>filters such as amount of seating, noise levels, outlet availability, and WiFi. The app leverages<br>Google Places API for location-based search and Yelp Fusion API to data scrape café reviews.<br>After cleaning review data through methods like tokenization, lemmatization, and stopword removal,<br>the app embeds it for processing. It then applies a machine learning-based sentiment analysis model<br>to evaluate and rate cafés across different filters, helping you find your next perfect study spot.<br><br>Tech Stack: Next.js, TypeScript, Python, PyTorch, Pandas, Supabase, Vercel</pre>
 #
 
 ### 🖥 Languages, Frameworks, & Tools 
