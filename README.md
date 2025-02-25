@@ -1,5 +1,5 @@
 # Kai Fang 
-**`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`** **`🏒Novice Hockey Player`**
+**`🎓Grad Student (UPenn)`** **`🎓Alum (Cornell)`** **`😸Cat Dad`** **`🎸Artist`** **`🏒Novice Hockey Player`**
 
 #### <pre>Hey, welcome to my GitHub! <br><br>I'm currently pursuing my Master's in Computer Science at the University of Pennsylvania. <br>When I'm not busy with coursework, I enjoy working on projects that combine my interests in AI,<br>machine learning, and software development. This Spring 2025 semester, I'm taking:<br><br>📚 CIS 5210 - Artificial Intelligence (search algorithms, probabilistic reasoning, ML techniques)<br>📚 CIT 5950 - Computer Systems Programming (C programming, system architecture, low-level computing)</pre>
 #
